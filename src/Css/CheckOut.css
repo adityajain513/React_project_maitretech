@@ -1,0 +1,29 @@
+ 
+.CheckOutAppbar{
+    background-color: indigo!important;
+
+}
+ .CheckoutMainBox{
+     padding: 10% 5% 5% 5%;
+ }
+ .CheckOutInnerBox{
+     border-radius: 10px;
+     box-shadow: 1px 1px 5px 1px;
+     background-color: white;
+     padding: 10px;
+ }
+ .CkeckourText{
+     text-align: center;
+ }
+ .LoginButton{
+     margin-left: 10px!important;
+     text-transform: capitalize!important;
+ }
+ .CheckLink{
+    font-size: 15px;
+    margin-left: 400px;
+ }
+ .homeButton{
+    text-transform: capitalize!important;
+
+ }
